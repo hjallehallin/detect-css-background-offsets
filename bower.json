@@ -1,0 +1,28 @@
+{
+  "name": "detect-css-background-offsets",
+  "main": "detect-css-background-offsets.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/hjallehallin/detect-css-background-offsets",
+  "authors": [
+    "hjalle <hjalle@hjalle.se>"
+  ],
+  "description": "Detect browser support for CSS background offsets from all edges",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "css",
+    "background",
+    "detection"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
