@@ -7,12 +7,9 @@ Detect browser support for CSS background offsets from all edges
 
 ### NPM
 
-
 `npm install detect-css-background-offsets`
 
-
 ### Bower
-
 
 `bower install detect-css-background-offsets`
 
